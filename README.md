@@ -7,7 +7,7 @@
 I'm a passionate AWS cloud practictioner with experience in AWS cloud services. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Data Fundementals
-- 🔭 Working on: **[current projects or side-projects]**
+- 🔭 Working on: Creating a chatbot with Amazon Lex
 - 🌍 Languages: python and javascript
 - 📫 How to reach me: cynthiamokgoebo@gmail.com
 
